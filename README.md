@@ -1,16 +1,28 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Mansab 👋</h1>
+<p align="center">
+  <b>Aspiring Developer | Student | Lifelong Learner</b><br>
+  I enjoy learning programming, experimenting with new technology, and building projects that help me grow as a developer.
+</p>
 
-<!--
-**mansab603/mansab603** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com">
+    <img src="https://shields.io" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧑‍💻 About Me
+* 🌱 Currently learning and improving my programming skills.
+* 💻 Exploring Python and JavaScript.
+* 🔍 Interested in software development and problem solving.
+* 🚀 Building projects to turn what I learn into practical experience.
+
+### 🛠️ Technologies
+![Python](https://shields.io)
+![JavaScript](https://shields.io)
+![Git](https://shields.io)
+![GitHub](https://shields.io)
+
+### 📌 Featured Project
+* **[My First Project](https://github.com/my-project)**
